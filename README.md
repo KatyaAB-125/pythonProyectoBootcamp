@@ -15,3 +15,6 @@ El estado de este repositorio está aún en progreso ... Tenemos las siguientes 
 7. Documentar cada paso de mi proceso de aprendizaje ⚪️
 8. Colocar fuentes de referencia que me ayudaron a realizar mi proyecto ⚪️
 
+# Referencias de apoyo
+ -[Git Cheatsheet] (https://education.github.com/git-cheat-sheet-education.pdf)
+ 
