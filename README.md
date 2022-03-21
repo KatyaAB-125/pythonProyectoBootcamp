@@ -18,10 +18,10 @@ El estado de este repositorio está aún en progreso ... Tenemos las siguientes 
 # Referencias de apoyo
  -[Git Cheatsheet] (https://education.github.com/git-cheat-sheet-education.pdf)
 
- -[Archivo Dataset 1] (https://data.humdata.org/dataset/world-bank-economy-and-growth-indicators-for-peru)
- -[Archivo Dataset 2] (https://data.humdata.org/dataset/world-bank-external-debt-indicators-for-peru)
- -[Archivo Dataset 3] (https://data.humdata.org/dataset/world-bank-financial-sector-indicators-for-peru)
- -[Archivo Dataset 4] (https://data.humdata.org/dataset/world-bank-combined-indicators-for-peru)
+ [Archivo Dataset 1] (https://data.humdata.org/dataset/world-bank-economy-and-growth-indicators-for-peru)
+ [Archivo Dataset 2] (https://data.humdata.org/dataset/world-bank-external-debt-indicators-for-peru)
+ [Archivo Dataset 3] (https://data.humdata.org/dataset/world-bank-financial-sector-indicators-for-peru)
+ [Archivo Dataset 4] (https://data.humdata.org/dataset/world-bank-combined-indicators-for-peru)
 
 
  
