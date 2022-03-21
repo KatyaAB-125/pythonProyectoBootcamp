@@ -1,2 +1,2 @@
-C:/Users/USUARIO/Documents/pythonProyecto/data/Camas-17_03_2022.csv filter=lfs diff=lfs merge=lfs -text
-data/Camas-17_03_2022.csv filter=lfs diff=lfs merge=lfs -text
+"C:\Users\USUARIO\Documents\pythonProyecto\data\indicators_per.csv"filter=lfs diff=lfs merge=lfs -text
+data\indicators_per.csv filter=lfs diff=lfs merge=lfs -text
