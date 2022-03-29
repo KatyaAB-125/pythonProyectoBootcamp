@@ -17,14 +17,10 @@ El estado de este repositorio está aún en progreso ... Tenemos las siguientes 
 
 # Referencias de apoyo
  -[Git Cheatsheet] (https://education.github.com/git-cheat-sheet-education.pdf)
-
- -[Archivo Dataset 1] (https://www.kaggle.com/kalilurrahman/global-economy-population-data-from-macrotrends)
- -[Archivo Dataset 2] (https://www.kaggle.com/kalilurrahman/global-economy-population-data-from-macrotrends)
- -[Archivo Dataset 3] (https://www.kaggle.com/kalilurrahman/global-economy-population-data-from-macrotrends)
- 
-
-
- 
+ -[Archivo Dataset 1] (https://www.kaggle.com/datasets/benhamner/sf-bay-area-bike-share)
+ -[Archivo Dataset 2] (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
+ Pedro Marcelino
+ Hair et al., 2013, Multivariate Data Analysis, 7th Edition
 
 
  
